@@ -31,10 +31,12 @@
 
 
 # 吃
-|地點|店名|Web|
-|-|-|-|
+|地點|店名|Web|Remark
+|-|-|-|-|
 |神戶|神戶牛|https://zh.compathy.net/magazine/2017/06/27/kobebeef/#header2|
 |岡山|炭火庵 犇き堂|https://www.ptt.cc/bbs/Japan_Travel/M.1532862746.A.F92.html|
+|岡山|炙り厚切り牛たんたん屋びぜん|https://www.ptt.cc/bbs/Japan_Travel/M.1527494672.A.CAF.html| Aeon6樓
+
 
 # 交通
 
