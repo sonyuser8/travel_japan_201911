@@ -18,10 +18,11 @@
 
 參考 https://tw.bring-you.info/kobe
 ## 20191112(二)
+* 道頓崛、心齋橋(預計早上10:10到, 14:10左右離開))
 
 
 # 吃
-* safasfs
+* 神戶牛(三宮附近) https://zh.compathy.net/magazine/2017/06/27/kobebeef/#header2
 
 # 交通
 
